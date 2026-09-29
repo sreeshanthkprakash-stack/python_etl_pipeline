@@ -185,8 +185,3 @@ You can execute the ETL steps interactively using Jupyter Notebooks:
 2. Run [`canberra_observations.ipynb`](file:///c:/Users/SREESHANTH_K/Desktop/etl/canberra_observations.ipynb) to process and load detailed meteorological observations.
 3. Run [`canberra_sky.ipynb`](file:///c:/Users/SREESHANTH_K/Desktop/etl/canberra_sky.ipynb) to process and load sky and visibility metrics.
 
----
-
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
